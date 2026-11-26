@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-TIP = "Tip: If the build fails three times, the fourth run is not a strategy. It is a ritual, and the compiler is not a god that accepts rituals."
+TIP = "Tip: Restarting will not fix the bug, but it will give you 40 quiet seconds to remember you chose this career on purpose."
 
 
 def main() -> None:
